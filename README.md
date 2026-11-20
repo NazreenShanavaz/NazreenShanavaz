@@ -20,7 +20,7 @@
 
 ## 🧬 about
 
-```python
+
 me = {
     "name": "Nazreen Shanavaz",
     "does": "Exploring data, building models, and uncovering insights",
@@ -156,4 +156,4 @@ me = {
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=curiosity%20over%20comfort.&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Curiosity over comfort" /></p>
-```
+
