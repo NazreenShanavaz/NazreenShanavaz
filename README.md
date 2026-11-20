@@ -1,6 +1,9 @@
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Nazreen%20Shanavaz&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Data%20Scientist%20%C2%B7%20Analytics%20%26%20ML&descSize=22&descAlignY=64" width="100%" alt="Nazreen Shanavaz, Aspiring Data Scientist" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+turning+data+into+meaningful+insights.;%3E+learning%2C+building+and+growing.;%3E+exploring+data+science+and+AI." width="100%" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A21517,100:0A0A0A&height=220&section=header&text=Nazreen%20Shanavaz&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Analytics%20%26%20ML&descSize=20&descAlignY=60" width="100%" alt="Nazreen Shanavaz" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=1500&color=E5EE4E&center=true&vCenter=true&width=1000&height=60&lines=%3E+turning+data+into+meaningful+insights;%3E+learning%2C+building+and+growing;%3E+exploring+data+science+and+AI" width="100%" alt="Typing animation" />
 </p>
 
 <p align="center">
