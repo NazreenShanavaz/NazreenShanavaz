@@ -1,6 +1,6 @@
 # 🖤 GitHub Profile README
 
-```markdown
+
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Nazreen%20Shanavaz&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Data%20Scientist%20%C2%B7%20Analytics%20%26%20ML&descSize=22&descAlignY=64" width="100%" alt="Nazreen Shanavaz, Aspiring Data Scientist" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+turning+data+into+meaningful+insights.;%3E+learning%2C+building+and+growing.;%3E+exploring+data+science+and+AI." width="100%" alt="Typing animation" />
@@ -42,7 +42,7 @@ me = {
     "tools": ["Python", "SQL", "Power BI", "Excel"],
     "goal": "Turning curiosity into skills and data into decisions"
 }
-```
+
 
 <details>
 <summary><b>🌱 how I got here. click for the short version</b></summary>
