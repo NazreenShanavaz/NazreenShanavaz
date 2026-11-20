@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A21517,100:0A0A0A&height=220&section=header&text=Nazreen%20Shanavaz&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Analytics%20%26%20ML&descSize=20&descAlignY=60" width="100%" alt="Nazreen Shanavaz" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:0A0A0A,100:A21517&amp;height=220&amp;section=header&amp;text=Nazreen%20Shanavaz&amp;fontSize=70&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=Aspiring%20Data%20Scientist%20%7C%20Analytics%20%26%20ML&amp;descSize=22&amp;descAlignY=64" width="100%" alt="Nazreen Shanavaz" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=1500&color=E5EE4E&center=true&vCenter=true&width=1000&height=60&lines=%3E+turning+data+into+meaningful+insights;%3E+learning%2C+building+and+growing;%3E+exploring+data+science+and+AI" width="100%" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=34&amp;duration=2000&amp;pause=1600&amp;color=E5EE4E&amp;center=true&amp;vCenter=true&amp;width=854&amp;height=64&amp;lines=%3E+turning+data+into+meaningful+insights;%3E+learning%2C+building+and+growing;%3E+exploring+data+science+and+AI" width="100%" alt="Typing animation" />
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge" alt="Portfolio" /></a>
@@ -128,7 +127,7 @@ me = {
 ## 🧰 tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,flask&perline=14&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,flask&amp;perline=14&amp;theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center">
