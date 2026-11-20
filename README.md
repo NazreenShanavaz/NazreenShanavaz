@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A21517&height=220&section=header&text=Nazreen%20Shanavaz&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Analytics%20%26%20ML&descSize=20&descAlignY=60" width="100%" alt="Nazreen Shanavaz" />
+  <img src="header.svg" width="100%" alt="Nazreen Shanavaz - Aspiring Data Scientist" />
 </p>
 
 <p align="center">
