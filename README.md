@@ -21,6 +21,7 @@
 ## 🧬 about
 
 
+```python
 me = {
     "name": "Nazreen Shanavaz",
     "does": "Exploring data, building models, and uncovering insights",
@@ -35,14 +36,14 @@ me = {
         "Statistical Analysis",
         "Machine Learning",
         "Power BI",
-        "SQL",
+        "SQL & Snowflake",
         "Python",
         "AI & LLMs"
     ],
-    "tools": ["Python", "SQL", "Power BI", "Excel"],
+    "tools": ["Python", "SQL", "Power BI", "Excel", "Snowflake"],
     "goal": "Turning curiosity into skills and data into decisions"
 }
-
+```
 
 <details>
 <summary><b>🌱 how I got here. click for the short version</b></summary>
