@@ -1,16 +1,159 @@
-## Hi there 👋
+# 🖤 GitHub Profile README
 
-<!--
-**NazreenShanavaz/NazreenShanavaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Nazreen%20Shanavaz&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Data%20Scientist%20%C2%B7%20Analytics%20%26%20ML&descSize=22&descAlignY=64" width="100%" alt="Nazreen Shanavaz, Aspiring Data Scientist" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+turning+data+into+meaningful+insights.;%3E+learning%2C+building+and+growing.;%3E+exploring+data+science+and+AI." width="100%" alt="Typing animation" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data_Analysis-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Python Data Analysis" />
+  <img src="https://img.shields.io/badge/SQL-Data_Querying-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-Data_Visualization-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Power BI" />
+</p>
+
+## 🧬 about
+
+```python
+me = {
+    "name": "Nazreen Shanavaz",
+    "does": "Exploring data, building models, and uncovering insights",
+    "degree": "B.Tech Computer Science & Engineering",
+    "interests": [
+        "Data Science",
+        "Data Analytics",
+        "Machine Learning",
+        "Artificial Intelligence"
+    ],
+    "learning": [
+        "Statistical Analysis",
+        "Machine Learning",
+        "Power BI",
+        "SQL",
+        "Python",
+        "AI & LLMs"
+    ],
+    "tools": ["Python", "SQL", "Power BI", "Excel"],
+    "goal": "Turning curiosity into skills and data into decisions"
+}
+```
+
+<details>
+<summary><b>🌱 how I got here. click for the short version</b></summary>
+<br />
+
+<table>
+  <tr>
+    <td><b>2023</b></td>
+    <td>Explored software development and IT operations through an internship experience.</td>
+  </tr>
+  <tr>
+    <td><b>2026</b></td>
+    <td>Completed my Computer Science engineering journey while exploring data analytics, machine learning, and real-world projects.</td>
+  </tr>
+  <tr>
+    <td><b>Currently</b></td>
+    <td>Strengthening my data skills, building projects, learning AI, and working towards a career in Data Science.</td>
+  </tr>
+</table>
+</details>
+
+## 💼 experience
+
+<table>
+  <tr>
+    <td width="36%" valign="top">
+      <b>Software Development Intern</b><br />
+      <sub>Global Services LLC, Oman · May 2023</sub>
+    </td>
+    <td valign="top">
+      Gained exposure to software development, IT operations, and technical workflows in a professional environment.
+    </td>
+  </tr>
+</table>
+
+## 🚀 projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/YOUR_USERNAME/ecommerce-customer-intelligence">E-commerce Customer Intelligence</a></h3>
+      <sub><b>Data Analysis · Business Intelligence</b></sub>
+      <p>Analyzed Brazilian e-commerce data to explore sales performance, customer behavior, delivery trends, and business insights across multiple datasets.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>MySQL</code> <code>SQL</code> <code>Power BI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/YOUR_USERNAME/machine-failure-prediction">Machine Failure Prediction</a></h3>
+      <sub><b>Machine Learning · Predictive Maintenance</b></sub>
+      <p>Developed machine learning models to predict industrial equipment failures using sensor and operational data, exploring classification and model evaluation.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Scikit-learn</code> <code>ML</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/YOUR_USERNAME/financial-sales-analysis">Financial Sales Analysis</a></h3>
+      <sub><b>Business Intelligence · Dashboarding</b></sub>
+      <p>Built an interactive dashboard to analyze sales, profitability, product performance, and regional business metrics to support data-driven decision-making.</p>
+      <p><code>Power BI</code> <code>DAX</code> <code>Data Visualization</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/YOUR_USERNAME/pneumonia-classification">Pneumonia Classification</a></h3>
+      <sub><b>Deep Learning · Computer Vision</b></sub>
+      <p>Built a deep learning model using a VGG19–ResNet50 hybrid architecture to classify chest X-ray images, achieving 84.17% accuracy.</p>
+      <p><code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>CNN</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ <a href="https://github.com/YOUR_USERNAME/buildhub">BuildHub</a></h3>
+      <sub><b>Web Development · Application Development</b></sub>
+      <p>A web-based application developed to bring functionality and structured workflows together using a Python-based backend and database integration.</p>
+      <p><code>Python</code> <code>Flask</code> <code>MongoDB</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📂 <a href="https://github.com/YOUR_USERNAME">More Projects</a></h3>
+      <sub><b>Learning through building</b></sub>
+      <p>Exploring new tools, solving problems, experimenting with data, and documenting my journey through code.</p>
+    </td>
+  </tr>
+</table>
+
+## 🧰 tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,flask&perline=14&theme=dark" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-A21517?style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-A21517?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--learn-A21517?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_BI-A21517?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-A21517?style=flat-square" />
+  <img src="https://img.shields.io/badge/TensorFlow-A21517?style=flat-square" />
+</p>
+
+### 📚 currently exploring
+
+- Data Analytics & Data Science
+- Machine Learning algorithms
+- Statistics & probability
+- SQL and Python interview preparation
+- Power BI, DAX & dashboard storytelling
+- Artificial Intelligence, LLMs & prompt engineering
+- Cloud technologies & data platforms
+
+<p align="center"><b>Working on something interesting? Let's connect and talk about it.</b></p>
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=curiosity%20over%20comfort.&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Curiosity over comfort" /></p>
+```
