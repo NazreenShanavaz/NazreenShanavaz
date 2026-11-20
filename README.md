@@ -12,11 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Data_Analysis-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Python Data Analysis" />
-  <img src="https://img.shields.io/badge/SQL-Data_Querying-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-Data_Visualization-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Python-Data_Analysis-ECBDD8?style=for-the-badge&amp;labelColor=0A0A0A" alt="Python Data Analysis" />
+  <img src="https://img.shields.io/badge/SQL-Data_Querying-ECBDD8?style=for-the-badge&amp;labelColor=0A0A0A" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-Data_Visualization-ECBDD8?style=for-the-badge&amp;labelColor=0A0A0A" alt="Power BI" />
 </p>
-
 ## 🧬 about
 
 
@@ -155,5 +154,7 @@ me = {
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=curiosity%20over%20comfort.&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Curiosity over comfort" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:A21517,100:0A0A0A&amp;height=90&amp;section=footer&amp;text=curiosity%20over%20comfort.&amp;fontSize=30&amp;fontColor=FFFFFF&amp;fontAlignY=52" width="100%" alt="Curiosity over comfort" />
+</p>
 
