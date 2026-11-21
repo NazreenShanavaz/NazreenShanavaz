@@ -96,11 +96,11 @@ me = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/YOUR_USERNAME/financial-sales-analysis">Financial Sales Analysis</a></h3>
-      <sub><b>Business Intelligence · Dashboarding</b></sub>
-      <p>Built an interactive dashboard to analyze sales, profitability, product performance, and regional business metrics to support data-driven decision-making.</p>
-      <p><code>Power BI</code> <code>DAX</code> <code>Data Visualization</code></p>
-    </td>
+  <h3>👥 <a href="https://github.com/YOUR_USERNAME/hr-analytics">HR Analytics: Employee Attrition & Workforce Analysis</a></h3>
+  <sub><b>HR Analytics · Exploratory Data Analysis · Business Intelligence</b></sub>
+  <p>Analyzed employee attrition patterns across job roles, demographics, satisfaction, compensation, and workload using Python, and developed an interactive Power BI dashboard to uncover workforce trends and support data-driven retention decisions.</p>
+  <p><code>Python</code> <code>Pandas</code> <code>Seaborn</code> <code>Power BI</code> <code>DAX</code></p>
+</td>
     <td width="50%" valign="top">
       <h3>🩺 <a href="https://github.com/YOUR_USERNAME/pneumonia-classification">Pneumonia Classification</a></h3>
       <sub><b>Deep Learning · Computer Vision</b></sub>
