@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/SQL-Data_Querying-ECBDD8?style=for-the-badge&amp;labelColor=0A0A0A" alt="SQL" />
   <img src="https://img.shields.io/badge/Power_BI-Data_Visualization-ECBDD8?style=for-the-badge&amp;labelColor=0A0A0A" alt="Power BI" />
 </p>
-## 🧬 about
+
+### 🧬 about
 
 
 ```python
