@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Power_BI-Data_Visualization-ECBDD8?style=for-the-badge&amp;labelColor=0A0A0A" alt="Power BI" />
 </p>
 
-### 🧬 about
+### About
 
 
 ```python
@@ -45,7 +45,7 @@ me = {
 ```
 
 <details>
-<summary><b>🌱 how I got here. click for the short version</b></summary>
+<summary><b> how I got here. click for the short version</b></summary>
 <br />
 
 <table>
@@ -64,7 +64,7 @@ me = {
 </table>
 </details>
 
-## 💼 experience
+## experience
 
 <table>
   <tr>
@@ -78,7 +78,7 @@ me = {
   </tr>
 </table>
 
-## 🚀 projects
+## projects
 
 <table>
   <tr>
@@ -89,7 +89,7 @@ me = {
       <p><code>Python</code> <code>Pandas</code> <code>MySQL</code> <code>SQL</code> <code>Power BI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/YOUR_USERNAME/machine-failure-prediction">Machine Failure Prediction</a></h3>
+      <h3><a href="https://github.com/YOUR_USERNAME/machine-failure-prediction">Machine Failure Prediction</a></h3>
       <sub><b>Machine Learning · Predictive Maintenance</b></sub>
       <p>Developed machine learning models to predict industrial equipment failures using sensor and operational data, exploring classification and model evaluation.</p>
       <p><code>Python</code> <code>Pandas</code> <code>Scikit-learn</code> <code>ML</code></p>
@@ -97,7 +97,7 @@ me = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-  <h3>👥 <a href="https://github.com/YOUR_USERNAME/hr-analytics">HR Analytics: Employee Attrition & Workforce Analysis</a></h3>
+  <h3><a href="https://github.com/YOUR_USERNAME/hr-analytics">HR Analytics: Employee Attrition & Workforce Analysis</a></h3>
   <sub><b>HR Analytics · Exploratory Data Analysis · Business Intelligence</b></sub>
   <p>Analyzed employee attrition patterns across job roles, demographics, satisfaction, compensation, and workload using Python, and developed an interactive Power BI dashboard to uncover workforce trends and support data-driven retention decisions.</p>
   <p><code>Python</code> <code>Pandas</code> <code>Seaborn</code> <code>Power BI</code> <code>DAX</code></p>
@@ -111,20 +111,20 @@ me = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏗️ <a href="https://github.com/YOUR_USERNAME/buildhub">BuildHub</a></h3>
+      <h3><a href="https://github.com/YOUR_USERNAME/buildhub">BuildHub</a></h3>
       <sub><b>Web Development · Application Development</b></sub>
       <p>A web-based application developed to bring functionality and structured workflows together using a Python-based backend and database integration.</p>
       <p><code>Python</code> <code>Flask</code> <code>MongoDB</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📂 <a href="https://github.com/YOUR_USERNAME">More Projects</a></h3>
+      <h3><a href="https://github.com/YOUR_USERNAME">More Projects</a></h3>
       <sub><b>Learning through building</b></sub>
       <p>Exploring new tools, solving problems, experimenting with data, and documenting my journey through code.</p>
     </td>
   </tr>
 </table>
 
-## 🧰 tech stack
+## tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,flask&amp;perline=14&amp;theme=dark" alt="Tech stack" />
@@ -139,7 +139,7 @@ me = {
   <img src="https://img.shields.io/badge/TensorFlow-A21517?style=flat-square" />
 </p>
 
-### 📚 currently exploring
+### currently exploring
 
 - Data Analytics & Data Science
 - Machine Learning algorithms
