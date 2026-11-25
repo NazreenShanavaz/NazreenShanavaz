@@ -83,13 +83,13 @@ me = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/YOUR_USERNAME/ecommerce-customer-intelligence">E-commerce Customer Intelligence</a></h3>
+      <h3>🛒 <a href="https://github.com/NazreenShanavaz/ecommerce-customer-intelligence">E-commerce Customer Intelligence</a></h3>
       <sub><b>Data Analysis · Business Intelligence</b></sub>
       <p>Analyzed Brazilian e-commerce data to explore sales performance, customer behavior, delivery trends, and business insights across multiple datasets.</p>
       <p><code>Python</code> <code>Pandas</code> <code>MySQL</code> <code>SQL</code> <code>Power BI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/YOUR_USERNAME/machine-failure-prediction">Machine Failure Prediction</a></h3>
+      <h3><a href="https://github.com/NazreenShanavaz/machine-failure-prediction">Machine Failure Prediction</a></h3>
       <sub><b>Machine Learning · Predictive Maintenance</b></sub>
       <p>Developed machine learning models to predict industrial equipment failures using sensor and operational data, exploring classification and model evaluation.</p>
       <p><code>Python</code> <code>Pandas</code> <code>Scikit-learn</code> <code>ML</code></p>
@@ -97,13 +97,13 @@ me = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-  <h3><a href="https://github.com/YOUR_USERNAME/hr-analytics">HR Analytics: Employee Attrition & Workforce Analysis</a></h3>
+  <h3><a href="https://github.com/NazreenShanavaz/hr-analytics">HR Analytics: Employee Attrition & Workforce Analysis</a></h3>
   <sub><b>HR Analytics · Exploratory Data Analysis · Business Intelligence</b></sub>
   <p>Analyzed employee attrition patterns across job roles, demographics, satisfaction, compensation, and workload using Python, and developed an interactive Power BI dashboard to uncover workforce trends and support data-driven retention decisions.</p>
   <p><code>Python</code> <code>Pandas</code> <code>Seaborn</code> <code>Power BI</code> <code>DAX</code></p>
 </td>
     <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/YOUR_USERNAME/pneumonia-classification">Pneumonia Classification</a></h3>
+      <h3>🩺 <a href="https://github.com/NazreenShanavaz/pneumonia-classification">Pneumonia Classification</a></h3>
       <sub><b>Deep Learning · Computer Vision</b></sub>
       <p>Built a deep learning model using a VGG19–ResNet50 hybrid architecture to classify chest X-ray images, achieving 84.17% accuracy.</p>
       <p><code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>CNN</code></p>
@@ -111,13 +111,13 @@ me = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/YOUR_USERNAME/buildhub">BuildHub</a></h3>
+      <h3><a href="https://github.com/NazreenShanavaz/buildhub">BuildHub</a></h3>
       <sub><b>Web Development · Application Development</b></sub>
       <p>A web-based application developed to bring functionality and structured workflows together using a Python-based backend and database integration.</p>
       <p><code>Python</code> <code>Flask</code> <code>MongoDB</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/YOUR_USERNAME">More Projects</a></h3>
+      <h3><a href="https://github.com/NazreenShanavaz">More Projects</a></h3>
       <sub><b>Learning through building</b></sub>
       <p>Exploring new tools, solving problems, experimenting with data, and documenting my journey through code.</p>
     </td>
