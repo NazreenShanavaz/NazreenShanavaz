@@ -89,7 +89,7 @@ me = {
       <p><code>Python</code> <code>Pandas</code> <code>MySQL</code> <code>SQL</code> <code>Power BI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NazreenShanavaz/machine-failure-prediction">Machine Failure Prediction</a></h3>
+      <h3><a href="https://github.com/NazreenShanavaz/industrial-machine-failure-prediction">Machine Failure Prediction</a></h3>
       <sub><b>Machine Learning · Predictive Maintenance</b></sub>
       <p>Developed machine learning models to predict industrial equipment failures using sensor and operational data, exploring classification and model evaluation.</p>
       <p><code>Python</code> <code>Pandas</code> <code>Scikit-learn</code> <code>ML</code></p>
@@ -103,7 +103,7 @@ me = {
   <p><code>Python</code> <code>Pandas</code> <code>Seaborn</code> <code>Power BI</code> <code>DAX</code></p>
 </td>
     <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/NazreenShanavaz/pneumonia-classification">Pneumonia Classification</a></h3>
+      <h3>🩺 <a href="https://github.com/NazreenShanavaz/Pnuemonia-detection">Pneumonia Classification</a></h3>
       <sub><b>Deep Learning · Computer Vision</b></sub>
       <p>Built a deep learning model using a VGG19–ResNet50 hybrid architecture to classify chest X-ray images, achieving 84.17% accuracy.</p>
       <p><code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>CNN</code></p>
@@ -111,7 +111,7 @@ me = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NazreenShanavaz/buildhub">BuildHub</a></h3>
+      <h3><a href="https://github.com/NazreenShanavaz/projects">BuildHub</a></h3>
       <sub><b>Web Development · Application Development</b></sub>
       <p>A web-based application developed to bring functionality and structured workflows together using a Python-based backend and database integration.</p>
       <p><code>Python</code> <code>Flask</code> <code>MongoDB</code></p>
