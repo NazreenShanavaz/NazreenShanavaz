@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=34&amp;duration=2000&amp;pause=1600&amp;color=E5EE4E&amp;center=true&amp;vCenter=true&amp;width=854&amp;height=64&amp;lines=%3E+turning+data+into+meaningful+insights;%3E+learning%2C+building+and+growing;%3E+exploring+data+science+and+AI" width="100%" alt="Typing animation" />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="www.linkedin.com/in/nazreens" alt="LinkedIn" /></a>
   <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="nazreenshanavaz2004@gmail.com" alt="Email" /></a>
 </p>
 
 <p align="center">
