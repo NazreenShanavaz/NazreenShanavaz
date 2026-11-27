@@ -89,7 +89,7 @@ me = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/NazreenShanavaz/ecommerce-customer-intelligence">E-commerce Customer Intelligence</a></h3>
+      <h3><a href="https://github.com/NazreenShanavaz/ecommerce-customer-intelligence">E-commerce Customer Intelligence</a></h3>
       <sub><b>Data Analysis · Business Intelligence</b></sub>
       <p>Analyzed Brazilian e-commerce data to explore sales performance, customer behavior, delivery trends, and business insights across multiple datasets.</p>
       <p><code>Python</code> <code>Pandas</code> <code>MySQL</code> <code>SQL</code> <code>Power BI</code></p>
@@ -109,7 +109,7 @@ me = {
   <p><code>Python</code> <code>Pandas</code> <code>Seaborn</code> <code>Power BI</code> <code>DAX</code></p>
 </td>
     <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/NazreenShanavaz/Pnuemonia-detection">Pneumonia Classification</a></h3>
+      <h3><a href="https://github.com/NazreenShanavaz/Pnuemonia-detection">Pneumonia Classification</a></h3>
       <sub><b>Deep Learning · Computer Vision</b></sub>
       <p>Built a deep learning model using a VGG19–ResNet50 hybrid architecture to classify chest X-ray images, achieving 84.17% accuracy.</p>
       <p><code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>CNN</code></p>
